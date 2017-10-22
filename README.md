@@ -1,2 +1,11 @@
 # hacker-news-angularjs-rails
-Following this tutorial https://thinkster.io/tutorials/angular-rails to make a Hacker News clone using AngularJS and Ruby on Rails.
+I'm working on a Rurby on Rails backend, Angular frontend [Hacker News](https://news.ycombinator.com/news) clone using this [tutorial](https://thinkster.io/tutorials/angular-rails).
+
+Built using: 
+ - [Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+ - [CircleCI](https://circleci.com/)
+ - [Rails 5](http://rubyonrails.org/)
+ - [AngularJS](https://angularjs.org/)
+
+To install this locally:
+:soon:
